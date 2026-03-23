@@ -1,0 +1,11 @@
+
+# AI Development
+.claude/cache/
+project-management/*.bak
+*.pyc
+__pycache__/
+.env
+*.local
+
+# Pages
+pages/node_modules/
