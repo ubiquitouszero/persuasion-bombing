@@ -132,6 +132,11 @@ Fork this repo. The entire protocol is designed to be reproducible by anyone wit
 
 This research follows the original analysis published at [notes.ath.how/persuasion-bombing-17950cde](https://notes.ath.how/persuasion-bombing-17950cde/), which identified the pattern and proposed the term. This repo is the structured follow-up: can we measure it across failure modes, and can we fix it with configuration?
 
+**Related articles on [workiscode.com](https://workiscode.com):**
+
+- [Persuasion Bombing](https://workiscode.com/articles/persuasion-bombing) -- Research summary and 4-model field test results
+- [Overfitting to Approval](https://workiscode.com/articles/overfitting-to-approval) -- The broader pattern: how AI sycophancy creates personalized echo chambers
+
 ## License
 
 MIT
